@@ -2,7 +2,7 @@ parol=input("Parol kiriting:")
 
 b=len(parol) ==8
 
-if  isalpha(b):
+if  b:
 
     print("Parol qabul qilindi")
 
