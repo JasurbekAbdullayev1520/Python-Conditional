@@ -21,5 +21,5 @@ elif c=='/':
         print( "0 ga bo'linmaydi")
 
 else:
-    print()
+    print("Bunday son yo'q")
 
